@@ -8,5 +8,3 @@ The Specialization covers algorithmic techniques for solving problems arising in
 
 This Specialization is unique, because it offers two real-world projects. Advanced Shortest Paths project is offered in the end of the Algorithms on Graphs course. In this project, you'll deal with road network analysis and social network analysis. You'll learn how to compute the fastest route between New York and Mountain View thousands of times faster than classic algorithms and close to those used in Google Maps. Through Genome Assembly culminating project at the end of the Specialization, you'll learn how to assemble genomes from millions of short pieces and how algorithms fuel recent developments in personalized medicine.
 
-Algorithmic Toolbox
-Assignments for Algorithmic Toolbox on Coursera with time and memory results from grader
